@@ -14,5 +14,7 @@ end
 puts "*" * max_length
 
 
+puts "I am adding a line."
+
 
 
